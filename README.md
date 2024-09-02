@@ -1,1 +1,23 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ABV-bUZs)
+# Comandos de edição para o ReadMe
+
+**Texto em Negrito**
+
+_Texto em itálico_
+
+~~Texto tachado, alô fernando haddad~~
+
+**_Negrito e itálico_**
+
+<sub>Tetxo subscrito</sub>
+
+## Texto de referência
+> citação de texto
+
+### Texto com opção de copiar:
+```
+Teste
+```
+
+## Adicionar link em palavras:
+
+Não clique nesse link [Foi avisado](https://youtu.be/6-8E4Nirh9s?si=YlmtgW95LLxRFejg)
